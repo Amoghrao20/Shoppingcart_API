@@ -4,7 +4,7 @@ Implemeneted a shopping cart API using python and MongoDB, performing the CRUD a
 # Problem Statement
 To create a shopping cart REST API(Use Python/Mongodb) that handles CRUD operations for a specific user like create cart, get items, add items and remove items.
 
-# Tools Required
+# required tools
 MongoDB : To create and maintain database__
 
 Postman App : To make requests to API from client side<br />
