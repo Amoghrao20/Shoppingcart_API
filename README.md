@@ -7,7 +7,7 @@ To create a shopping cart REST API(Use Python/Mongodb) that handles CRUD operati
 # Tools Required
 MongoDB : To create and maintain database__
 
-Postman App : To make requests to API from client side__
+Postman App : To make requests to API from client side<br />
 Python(3.9.6) : To create the API__
 
 # Required packages
