@@ -1,5 +1,5 @@
 # Shoppingcart_API
-Implemeneted a shopping cart API using python and MongoDB, performing the CRUD applications for the cart.
+Shopping cart API using python and MongoDB, performing the CRUD applications for the cart.
 
 # Problem Statement
 To create a shopping cart REST API(Use Python/Mongodb) that handles CRUD operations for a specific user like create cart, get items, add items and remove items.
