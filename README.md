@@ -15,10 +15,10 @@ flask , pymongo
 
 
 # Command to install required packages__
-All packages at once :__
-pip install -r requirements.txt
-Individual packages: __
- pip install <package_name>
+All packages at once :
+pip install -r requirements.txt__
+Individual packages: 
+ pip install <package_name>__
 
 
 
