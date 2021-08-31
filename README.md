@@ -10,16 +10,6 @@ MongoDB : To create and maintain database__
 Postman App : To make requests to API from client side<br />
 Python(3.9.6) : To create the API__
 
-# Required packages
-flask , pymongo 
-
-
-# Install Packages
-All packages at once : pip install -r requirements.txt<br />
-
-Individual packages:  pip install <package_name><br />
-
-
 
 
 
