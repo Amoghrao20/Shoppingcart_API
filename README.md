@@ -14,11 +14,10 @@ Python(3.9.6) : To create the API__
 flask , pymongo 
 
 
-# CInstall Packages
-All packages at once :
-pip install -r requirements.txt
-Individual packages: 
- pip install <package_name>
+# Install Packages
+All packages at once : pip install -r requirements.txt<br />
+
+Individual packages:  pip install <package_name><br />
 
 
 
